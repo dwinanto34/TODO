@@ -1,0 +1,11 @@
+
+
+1. Design pattern
+2. Cassandra
+3. Redis
+4. MongoDB
+5. System Design
+6. Java
+7. Golang
+
+
