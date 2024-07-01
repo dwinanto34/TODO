@@ -1,9 +1,9 @@
 
 
-1. Cassandra
-2. Redis
-3. MongoDB
-4. System Design
+1. System Design
+2. Cassandra
+3. Redis
+4. MongoDB
 5. Java
 6. Golang
 
